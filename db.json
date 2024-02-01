@@ -1,10 +1,10 @@
 {
   "todos": [
     {
-      "id": "a9ebfcfb-63b4-4ee1-8754-06c7458c8692",
-      "text": "murat123",
-      "is_done": false,
-      "created_at": "25.12.2023"
+      "id": "ee69d8f6-f473-48c1-a05f-3c5011a946ff",
+      "text": "Selamlar",
+      "is_done": true,
+      "created_at": "01.02.2024"
     }
   ]
 }
